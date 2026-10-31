@@ -55,11 +55,20 @@ The trained agent achieved a **75.3% success rate** over 1,000 evaluation episod
 
 A separate evaluation using the notebook's real-time visualization cell recorded a **73.80% success rate**.
 
-The notebook also includes:
+### Training Performance
 
+The following plots illustrate the agent's training process.
+
+**Episode Returns**
+
+![Episode Returns](episode_returns.png)
+
+**Epsilon Decay**
+
+![Epsilon Decay](epsilon_decay.png)
+
+The notebook also includes:
 - A Q-table showing learned action values.
-- A plot of episode returns during training.
-- A plot showing epsilon decay.
 - A visualization of the FrozenLake environment.
 - An additional evaluation with real-time environment rendering.
 
