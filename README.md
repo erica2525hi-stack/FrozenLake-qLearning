@@ -4,6 +4,7 @@ FrozenLake 환경에서 Q-learning 알고리즘을 구현하고 에이전트를 
 Epsilon-greedy 정책을 적용해 에이전트가 미끄러운 환경에서 탐험과 학습을 반복하도록 구현했습니다.  
 2,000회 학습 후 1,000회 평가에서 75.3%의 성공률을 기록했으며, Q-table과 학습 과정을 시각화했습니다.
 
+해당 프로젝트는 Google Colab에서 개발 및 실행된 후, GitHub에 업로드되었습니다.
 ---
 
 ## Introduction
