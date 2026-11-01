@@ -6,7 +6,8 @@ Epsilon-greedy 정책을 적용해 에이전트가 미끄러운 환경에서 탐
 
 해당 프로젝트는 Google Colab에서 개발 및 실행된 후, GitHubdp 업로드되었습니다.
 
-<sub>*Based on the starter notebook provided in Imperial College London Workshop 2024.*</sub>
+Imperial College London Workshop 2024에서 제공된 starter notebook을 기반으로 작성했습니다.
+
 ---
 
 ## Introduction
